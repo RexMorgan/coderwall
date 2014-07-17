@@ -1,4 +1,4 @@
-class TeamLink
+class OldTeamLink
   include Mongoid::Document
   embedded_in :team
 

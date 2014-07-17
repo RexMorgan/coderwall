@@ -1,4 +1,4 @@
-class TeamLocation
+class OldTeamLocation
   include Mongoid::Document
   include Mongoid::Timestamps
   include Geocoder::Model::Mongoid

@@ -1,4 +1,4 @@
-class TeamMember
+class OldTeamMember
   include Mongoid::Document
   include Mongoid::Timestamps
 
